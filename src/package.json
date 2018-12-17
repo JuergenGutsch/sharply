@@ -13,7 +13,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/juergengutsch/sharply.git"
+    "url": "git+https://github.com/JuergenGutsch/sharply.git"
   },
   "keywords": [
     "csharp",
