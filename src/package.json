@@ -1,0 +1,28 @@
+{
+  "name": "sharply",
+  "version": "1.0.0",
+  "description": "blockly csharp editor",
+  "main": "main.js",
+  "dependencies": {
+    "electron": "^3.0.11"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/juergengutsch/sharply.git"
+  },
+  "keywords": [
+    "csharp",
+    "blockly"
+  ],
+  "author": "Juergen Gutsch",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/juergengutsch/sharply/issues"
+  },
+  "homepage": "https://github.com/juergengutsch/sharply#readme"
+}
