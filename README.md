@@ -17,7 +17,7 @@ I plan to
 
 ## Why
 
-Because my first sun likes to learn programming and he like to use Blockly and Scratch. Scratch isn't available in German but Blockly is and it is easy to customize and to extend. To better support my son, I would prefer to generate C# code. 
+Because my first son likes to learn programming and he like to use Blockly and Scratch. Scratch isn't available in German but Blockly is and it is easy to customize and to extend. To better support my son, I would prefer to generate C# code. 
 
 ## Contributions
 
