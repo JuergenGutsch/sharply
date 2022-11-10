@@ -4,7 +4,7 @@
   "description": "blockly csharp editor",
   "main": "main.js",
   "dependencies": {
-    "electron": "^11.5.0"
+    "electron": "^18.3.7"
   },
   "devDependencies": {},
   "scripts": {
